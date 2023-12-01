@@ -183,7 +183,7 @@ object ClusterCacheManager {
     var idsOfExecutorsForRemoval : Set[Int] = Set()
 
     for((executorId, sizeOfCachedBlocks) <- executorBlocksSizeMap){
-      if (sizeOfCachedBlocks == 0){
+      if (sizeOfCachedBlocks == 0 && idsOfExecutorsForRemoval.size != ScaleOutManager.GetCurrentNumberOfExecutors()-1){
         idsOfExecutorsForRemoval += executorId
       }
     }
