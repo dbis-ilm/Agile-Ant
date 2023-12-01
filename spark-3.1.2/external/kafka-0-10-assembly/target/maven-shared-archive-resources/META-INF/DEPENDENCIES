@@ -1,0 +1,29 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+Spark Integration for Kafka 0.10 Assembly
+
+
+From: 'an unknown organization'
+  - Apache Kafka (https://kafka.apache.org) org.apache.kafka:kafka-clients:jar:2.6.0
+    License: The Apache Software License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - empty (http://nexus.sonatype.org/oss-repository-hosting.html/unused) org.spark-project.spark:unused:jar:1.0.0
+    License: The Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'com.github.luben'
+  - zstd-jni (https://github.com/luben/zstd-jni) com.github.luben:zstd-jni:jar:1.4.8-1
+    License: BSD 2-Clause License  (https://opensource.org/licenses/BSD-2-Clause)
+
+From: 'The Apache Software Foundation' (https://www.apache.org/)
+  - Spark Integration for Kafka 0.10 (http://spark.apache.org/) org.apache.spark:spark-streaming-kafka-0-10_2.12:jar:3.1.2
+    License: Apache 2.0 License  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - Spark Project Tags (http://spark.apache.org/) org.apache.spark:spark-tags_2.12:jar:3.1.2
+    License: Apache 2.0 License  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - Kafka 0.10+ Token Provider for Streaming (http://spark.apache.org/) org.apache.spark:spark-token-provider-kafka-0-10_2.12:jar:3.1.2
+    License: Apache 2.0 License  (http://www.apache.org/licenses/LICENSE-2.0.html)
+
+
+
+

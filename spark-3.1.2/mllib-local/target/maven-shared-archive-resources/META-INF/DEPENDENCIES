@@ -1,0 +1,83 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+Spark Project ML Local Library
+
+
+From: 'an unknown organization'
+  - core (https://github.com/fommil/netlib-java/core) com.github.fommil.netlib:core:jar:1.1.2
+    License: BSD 3 Clause  (http://opensource.org/licenses/BSD-3-Clause)
+  - JTransforms (https://github.com/wendykierp/JTransforms) com.github.wendykierp:JTransforms:jar:3.1
+    License: BSD 2-Clause  (http://opensource.org/licenses/BSD-2-Clause)
+  - opencsv (http://opencsv.sf.net) net.sf.opencsv:opencsv:jar:2.3
+    License: Apache 2  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Fortran to Java ARPACK (http://f2j.sourceforge.net) net.sourceforge.f2j:arpack_combined_all:jar:0.1
+    License: The BSD License  (http://www.opensource.org/licenses/bsd-license.php)
+  - empty (http://nexus.sonatype.org/oss-repository-hosting.html/unused) org.spark-project.spark:unused:jar:1.0.0
+    License: The Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - JLargeArrays (https://gitlab.com/ICM-VisLab/JLargeArrays) pl.edu.icm:JLargeArrays:jar:1.5
+    License: BSD 2-Clause  (http://opensource.org/licenses/BSD-2-Clause)
+
+From: 'com.chuusai' (https://github.com/milessabin/shapeless)
+  - coreJVM (https://github.com/milessabin/shapeless) com.chuusai:shapeless_2.12:bundle:2.3.3
+    License: Apache 2  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'LAMP/EPFL' (https://lamp.epfl.ch/)
+  - Scala Library (https://www.scala-lang.org/) org.scala-lang:scala-library:jar:2.12.10
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Scala Compiler (https://www.scala-lang.org/) org.scala-lang:scala-reflect:jar:2.12.10
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+From: 'org.scala-lang.modules' (http://www.scala-lang.org/)
+  - scala-collection-compat (http://www.scala-lang.org/) org.scala-lang.modules:scala-collection-compat_2.12:bundle:2.1.1
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+From: 'org.scalanlp'
+  - breeze-macros (http://scalanlp.org/) org.scalanlp:breeze-macros_2.12:jar:1.0
+    License: Apache 2  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - breeze (http://scalanlp.org/) org.scalanlp:breeze_2.12:jar:1.0
+    License: Apache 2  (http://www.apache.org/licenses/LICENSE-2.0.html)
+
+From: 'org.typelevel' (http://github.com/typelevel/machinist)
+  - machinist (http://github.com/typelevel/machinist) org.typelevel:machinist_2.12:jar:0.6.8
+    License: MIT  (http://opensource.org/licenses/MIT)
+
+From: 'org.typelevel' (http://typelevel.org/algebra)
+  - core (http://typelevel.org/algebra) org.typelevel:algebra_2.12:jar:2.0.0-M2
+    License: MIT  (http://opensource.org/licenses/MIT)
+
+From: 'org.typelevel' (https://github.com/milessabin/macro-compat)
+  - core (https://github.com/milessabin/macro-compat) org.typelevel:macro-compat_2.12:jar:1.1.1
+    License: Apache 2  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'org.typelevel' (https://github.com/typelevel/cats)
+  - Cats kernel (https://github.com/typelevel/cats) org.typelevel:cats-kernel_2.12:jar:2.0.0-M4
+    License: MIT  (http://opensource.org/licenses/MIT)
+
+From: 'org.typelevel' (https://typelevel.org/spire/)
+  - macros (https://typelevel.org/spire/) org.typelevel:spire-macros_2.12:jar:0.17.0-M1
+    License: MIT  (http://opensource.org/licenses/MIT)
+  - platform (https://typelevel.org/spire/) org.typelevel:spire-platform_2.12:jar:0.17.0-M1
+    License: MIT  (http://opensource.org/licenses/MIT)
+  - util (https://typelevel.org/spire/) org.typelevel:spire-util_2.12:jar:0.17.0-M1
+    License: MIT  (http://opensource.org/licenses/MIT)
+  - core (https://typelevel.org/spire/) org.typelevel:spire_2.12:jar:0.17.0-M1
+    License: MIT  (http://opensource.org/licenses/MIT)
+
+From: 'QOS.ch' (http://www.qos.ch)
+  - SLF4J API Module (http://www.slf4j.org) org.slf4j:slf4j-api:jar:1.7.30
+    License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Apache Commons Math (http://commons.apache.org/proper/commons-math/) org.apache.commons:commons-math3:jar:3.4.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'The Apache Software Foundation' (https://www.apache.org/)
+  - Spark Project Tags (http://spark.apache.org/) org.apache.spark:spark-tags_2.12:jar:3.1.2
+    License: Apache 2.0 License  (http://www.apache.org/licenses/LICENSE-2.0.html)
+
+
+
+

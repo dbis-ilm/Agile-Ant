@@ -1,0 +1,50 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /home/hani/Desktop/Work/Publications/SIGMOD2023/GitHub/spark/spark-3.1.2/project/target/scala-2.12/sbt-1.0/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkParallelTestGrouping$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	YARN$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BuildCommons$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Hive.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OldDeps.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PySparkAssembly.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PySparkAssembly$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assembly.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BuildCommons.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MimaBuild.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KubernetesIntegrationTests$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CopyDependencies$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestSettings.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DependencyOverrides.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Checkstyle.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DockerIntegrationTests$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MimaExcludes.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Catalyst.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Core.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KubernetesIntegrationTests.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Unidoc.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DockerIntegrationTests.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Hive$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkBuild$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkParallelTestGrouping.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SQL.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Unidoc$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CopyDependencies.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Catalyst$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OldDeps$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	YARN.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkBuild.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MimaExcludes$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assembly$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestSettings$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ExcludedDependencies$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Unsafe.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SQL$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DependencyOverrides$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkBuild$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Core$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Checkstyle$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ExcludedDependencies.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MimaBuild$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Unsafe$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /home/hani/Desktop/Work/Publications/SIGMOD2023/GitHub/spark/spark-3.1.2/project/target/scala-2.12/sbt-1.0/classes.bak[0m

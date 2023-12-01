@@ -1,0 +1,15 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+Spark Project Examples
+
+
+From: 'com.github.scopt' (https://github.com/scopt/scopt)
+  - scopt (https://github.com/scopt/scopt) com.github.scopt:scopt_2.12:jar:3.7.1
+    License: MIT  (http://www.opensource.org/licenses/mit-license.php)
+
+
+
+
