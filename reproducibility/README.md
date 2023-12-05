@@ -34,7 +34,7 @@ To run the hadoop MapReduce applications that HiBench uses to generate the data 
 ## Agile-Ant Runs
     ./agile-ant-runs.sh
 
-This script executes the Agile-Ant runs (introduced in Section 9.3 of the paper) on the data stored in the `/AgileAnt/Data` directory using the binaries in the `binaries` directory on HDFS, based on the cluster configuration file `config.ini`.
+This script executes the Agile-Ant runs (introduced in Section 9.2 of the paper) on the data stored in the `/AgileAnt/Data` directory using the binaries in the `binaries` directory on HDFS, based on the cluster configuration file `config.ini`.
 
 To execute the Agile-Ant runs, the cluster should support dynamic resource allocation. This requires setting up the external shuffle service in each node and modifying the yarn-site.xml as follows
 
