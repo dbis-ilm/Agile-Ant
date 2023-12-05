@@ -18,7 +18,7 @@ This script adds the AgileAnt directory in the HDFS root and put the jars of Spa
 ## Generate Data
     ./prepare-data.sh
 
-This script puts the required data from the `Data` directory to the `/AgileAnt/Data` directory on HDFS. `Data` contains the real-world datasets in Table 2 of the paper. The script also generates the synthetic data using HiBench.
+This script puts the required data from the `Data` directory to the `/AgileAnt/Data` directory on HDFS. `Data` contains the real-world datasets in Table 1 of the paper. The script also generates the synthetic data using HiBench.
 
 To run the hadoop MapReduce applications that HiBench uses to generate the data for the SPC, WC, Sort and KM applications, the properties in the yarn-site.xml file in the Hadoop configuration directory should be
 
